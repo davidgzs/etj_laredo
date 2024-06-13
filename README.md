@@ -1,2 +1,2 @@
-# etj_laredo
+# ETJ_LAREDO
 repositorio de la escuela talento joven LAREDO
