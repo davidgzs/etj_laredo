@@ -1,0 +1,16 @@
+hay que hacer aún mas correcciones y ajustes. 
+Pon esto 
+.top-row {
+    display: flex;
+    justify-content: space-evenly;
+}
+en vez de lo que tenias
+Tambien en el header que todo sean h1 y no un h1 y h2
+pon en el header en vez de "David González Saiz" ponerlo todo en mayusculas "DAVID GONZALEZ SAIZ"
+destacar con strong y mayor tamaño de fuente de letra las iniciales de cada parte del nombre esto es D G S
+
+que los titulos de todas las secciones del grid 2x2 vayan centrados
+que en cada cuadro celda de la grid no se noten los bordes que el fondo sea blanco o transparente como el del top-row
+
+que el rooter ponga [DGS-CV-WEB - Actualizado: fecha]
+

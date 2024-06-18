@@ -1,0 +1,28 @@
+Ayudame a crear una pagina de un CV "curriculum Vitae" WEB impactante y novedoso que contenga tres arhivos, el del html que ha de ser responsive siguiendo html5 semantico, otro para el estilo de las css y uno para el codigo javascript pues ha de terner funciones para dar dinamismo y efectos esepciales que llamen la atencion.
+Al principio de todo ha de tener un header que incluya el texto "Curriculum Vitae Web CV-Web"
+Y al final de todo el Footer con un simbolo de copyright seguido de las siglas DGS, y el texto "ultima actualziacion:" seguido de la fecha actual del momento que se ha de calcualr rellenar y poner mediante funcion de javascript.
+en medio iria la parte del elemento main principal con las secciones, de la siguiente manera:
+Arriba a la izquierda iria la foto del CV, pero es importante que son 2 fotos una encima de otroa pues cuando se pasa el puntero de raton por una saca la de debajo mediante funcion o efecto dinamico de javascript creando una especie de animacion.
+Las dos fotos seran de cara, tamaño triple de lo que seria el tamaño estandar de una foto de carnet. Han de ir como dentro de una marco circular u ojo de buey.
+seguido de las fotos a la derecha del todo  ira una seccion de datos de contacto con
+el telefono movil poniendo un icono pequeño de telefono movil, el numero es el +34637415502 seguido poner el icono de wassap.
+en reglon siguiente pero alineado con el movil iria el email, tambien con icono peqeño de sobre de email, el correo electronico es davidgzs@gmail.com
+en reglon siguiente pero alineado con el email iria iconos con enlaces a urls 1 de linkedin otro de github y otro a una web que seria asesorialegaldigital.com
+Justo debajo de la seccion de las fotos del CV, a la izquierda iria una seccion titulada sobre mi, donde se hayra una breve reseña personal
+El texto a poner seria este:
+Ingeniero Técnico informático. Especialista en Seguridad Informática. Gestión Identidades. Sistemas Informáticos.
+Desarrollo software y de aplicaciones web. Proyectos IT. Con + de 20 años de experiencia profesional en el sector
+de la informática y las TIC y en los procesos de IT y de transformación digital en las empresas.
+Ante todo soy un “facilitador” tecnológico.
+luego debajo una seccion de "Cualidades/Capacidades" donde has de poner una lista de las que creas las capacidades o cualidades mas importante para trabajar, como trabjo en equipo etc.
+Piensa en que es para ser desarrollador web y que no hay que poner muchas. 
+Abajo seguido se pondia un icono de vehiculo y el texto Vehiculo propio.
+esto completaria lo que sería un especie de pimera columna.
+La segunda columna y que iria debajo de la seccion de datos de contacto y redes sociales de contacto.
+Irian 2 secciones mas seguidas que seria la "Trabajos a desempeñar" donde poner los tipos de puestos asociados a desarrollo web, diseño de paginas web
+Y "Certificaciones obtenidas" poner los certificados profesionales existentes de FPE de empleo en España.
+Al final entre las 2 columnas habria como una barra fina separadora gris.
+El diseño ademas de ser responsive, ha de seguir el modelo de flexbox de cajas. Adpatandose lo mejor posible.
+Y es imporante que haya un efecto al pasar sobre los titulos de las secciones que haga como que crece el tamaño de fuente un poco, para resaltar, como una especie de animacion. Cuando se pasa y se enta encima crece la fuente y cuando se pasa sale vuelve al tamaño normal del resto.
+Subo adjunto un PDF en el que basarse un poco, pero es mas importante las instrucciones dadas anteriormente.
+

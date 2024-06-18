@@ -1,0 +1,4 @@
+hay que hacer aún mas correcciones y ajustes. 
+el telefono y el email han de ir en negrita.
+quita la barra divisoria separadaros gris central.
+El efecto de agrandar los titulos de las secciones hace que se salgan de la pagina, no han de salirse en todo caso han de desplazarse hacia el interior de la pgina no hacia el exterior, hacerse grande pero sin salirse de la pagina.

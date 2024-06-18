@@ -1,0 +1,9 @@
+hay que hacer aún mas correcciones y ajustes. 
+el telefono y el email han de DESTACAR AUN MAS HACERLOS MAS GRANDE
+La seccionde las fotos y de contacto son en el main como las 2 columnas de una 1 fila de una tabla.
+Luego lo que va debajo seria como un grid de 4 celdas 2 x 2 donde la seccion sobre mi iria a la izquierda y trabajos a desempeñar a la derecha, pero alineados, los titulos han de quedar a la misma altura
+luego en la siguiente fila irian las seccionde de Cualidades y certificadiones que igual han de estar a la misma altura los titulos. Una alineacion vertical y horizoantal para que esteicamente quede bien
+Cambia el texto de "TRabajos a desempeñar" a "Trabajos que puedo desempeñar"
+Cambia el texto de "Certificaciones obtenidas" por "Certificaciones TIC que tengo"
+Cambia el texto de "Sobre mí" por "Perfil profesional"
+Es importante que las 4 areas indicadas del grid tengan como un margen o espacio en blanco de un tamaño que se note.

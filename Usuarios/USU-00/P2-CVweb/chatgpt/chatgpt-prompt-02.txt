@@ -1,0 +1,17 @@
+hay que hacer correcciones y ajustes. 
+primero que la fundion que calcula la fecha al final para la actualizacion saca mal el formato ha de ser dd/mm/yyyy.
+Y quiero que popnga CV WEB de DAVID GONZALEZ SAIZ [DGS] - Actualizado: la fecha en ese formato extenso indicado
+luego en el header añadir un reglon o linea con el nombre completo DAVID GONZALEZ SAIZ
+no se ha hecho el diseño que divide la pagina como en varias columnas
+poniendo la barra divisoria vertical gris entre columnas.
+La seccion de trabajos a desempeñar y certificaciones han de ir hacia la derecha en columna seguidas 
+alineadas a la par con las otros 2 secciones de sobre mi y cualidades que van en la columna o banda de la izaquierda
+el efecto que se aplicado sobre los titulos de las secciones es un desplazamiento se quiere ademas que se incremente el tamaño de la fuente un poco para resaltar mas
+pon las fuentes mas bonitas y con un mayor tamaño ya que el CV es pequeño en textos.
+se ha de intentar que no aparezcan barras de desplazamiento en la pantalla o resolucion que se esta usando actual y que ocupe lo maximo y de una sola vez
+pantalla o resolucion de 1920x1080
+en caso de que se tenga resoluciones menores encoger en columnas filas una debajo de la otra.
+
+
+
+
