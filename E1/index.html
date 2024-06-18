@@ -2,32 +2,43 @@
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
-        <title>ETJ-LAREDO-E1</title>
+        <title>Title</title>
         <link rel="stylesheet" href="styles.css" />
         <script src="script.js"></script>
     </head>
     <body>
-        <header>
-            MI PRIMERA PÁGINA
-        </header>
-        <p>Esta sería una primera página web</p>
-        <hr>
-        <p>SALUDO UNIVERSAL</p>
-        <h1 class="saludo1" id="saludo1">¡¡HOLA MUNDO!!</h1>
-        <hr>
-        <p>SALUDO INDIVIDUAL</p>
-        <div class="saludo2" id="saludo2">
-            NOMBRE:  <input type="text" class="nombre" id="nombre">
+        <h1 class="titulo">Primer ejemplo - Primera página WEB</h1>
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
+        <p>Vamos primero con un Saludo mundial para toda la gente que este viendo esta WEB</p>
+        <div class="saludo1" id="Saludo1">
+            <h1>¡¡HOLA MUNDO!!</h1>
         </div>
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
+        <p>Y ahora un Saludo individual: escribe un nombre y pulsa sobre el <strong>Botón1</strong> para saludar</p>
+        <div class="saludo2" id="saludo2"> 
+            <strong>
+            <label for="nombre">NOMBRE: <input type="text" id="nombre" name="nombre" value="DAVID" required></label>
+            <!-- Sección para mostrar el saludo -->
+            <p id="saludoPersonal"></p>
+            </strong>
+        </div>
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
+        <p>Con <strong>Botón2</strong> haremos pruebas en javascript para contar pulsaciones. ¡¡Haz la prueba!!</p>
+        <div class="resultado" id="resultado">
+            <span class="bold">
+            RESULTADO: 0
+            </span>
+        </div>
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
         <br />
-        <hr>
-        <div class="resultado" id="resultado"></div>
-        <br />
-        <hr>
         <div class="botonera" id="botonera">
-            <button onclick="buttonClicked1()">SALUDO</button>
-            <button onclick="buttonClicked2()">CONTAR PULSACIONES</button>
-            <button onclick="buttonReset()">RESETEAR CONTADOR</button>
+            <button onclick="boton1Pulsado()">Botón1</button>
+            <button onclick="boton2Pulsado()">Botón2</button>
+            <button onclick="resetear()">Resetear</button>
         </div>
     </body>
 </html>

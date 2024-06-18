@@ -1,15 +1,25 @@
-function buttonClicked1() {
-   alert("HOLA " + document.getElementById("nombre").textContent);
+let numPulsaciones = 0;
+
+function boton1Pulsado() {
+    const nombre = document.getElementById('nombre').value;
+    /*alert('¡¡HOLA ' + nombre + '!!');*/
+    document.getElementById('saludoPersonal').innerHTML = '¡¡HOLA <span class="bold">' + nombre + '</span>!!';
 }
 
-let numButtonClicks = 0;
-function buttonClicked2() {
-    numButtonClicks = numButtonClicks + 1;
+function boton2Pulsado() {
+    numPulsaciones = numPulsaciones + 1;
+    /*
     document.getElementById("resultado").textContent =
-        "Botón pulsado " + numButtonClicks + " veces.";
+        "Botón2 pulsado " + numPulsaciones + " veces.";
+    */
+    document.getElementById("resultado").textContent =
+        "RESULTADO: " + numPulsaciones;
 }
 
-function buttonReset() {
-    numButtonClicks = 0;
-    document.getElementById("resultado").textContent = "";
+function resetear() {
+    document.getElementById('nombre').value = 'DAVID';
+    document.getElementById('saludoPersonal').innerHTML = '';
+    let numPulsaciones = 0;
+    document.getElementById("resultado").textContent =
+        "RESULTADO: " + numPulsaciones;
 }

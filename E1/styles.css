@@ -1,8 +1,35 @@
-header {
-    font-size: xx-large;
-    font-weight: bold;
+.titulo {
+    text-align: center;
+    color: black;
 }
 
 .saludo1 {
-    color: blue;
+    text-align: center;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.saludo2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.saludo2 label,input{
+    font-size: 24px; /* Ajusta este valor según tus necesidades */
+}
+
+#saludoPersonal {
+    color: indianred;
+    font-size: xx-large;
+    /*font-size: 24px;*/
+}
+
+.resultado {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.botonera {
+    text-align: center;
 }
