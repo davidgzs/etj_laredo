@@ -1,16 +1,12 @@
 ESTO ES UNA PRUEBA 
 SOY ISMA
-<<<<<<< HEAD
 JONATHAAN
-=======
 Y YO DAVID
->>>>>>> 9c1a3d54abb3d88840886bbf94c417eaef12a7f3
 JONATHAAAAN
-<<<
 y yo soy diego cuesta
 y yo soy silvia
 estefi
 carool
 Román
 cacafuti
-brenda d enuevo
+brenda de nuevo (hubo problemas)
