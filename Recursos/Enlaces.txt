@@ -1,0 +1,55 @@
+https://developer.mozilla.org/es/
+
+HTML 	-> 	https://developer.mozilla.org/es/docs/Web/HTML
+		https://developer.mozilla.org/es/docs/Learn/HTML
+
+CSS	->	https://developer.mozilla.org/es/docs/Web/CSS
+		https://developer.mozilla.org/es/docs/Learn/CSS
+
+JS	->	https://developer.mozilla.org/es/docs/Web/JavaScript
+		https://developer.mozilla.org/es/docs/Learn/JavaScript
+
+WebDev	->	https://developer.mozilla.org/es/docs/Web
+		https://developer.mozilla.org/es/docs/Learn
+		https://developer.mozilla.org/es/docs/Web/Accessibility
+
+PARA PRACTICAR 	- "JUGAR" con "EDITOR ONLINE" -> https://developer.mozilla.org/es/play
+		- + Profesional: https://phcode.dev/
+
+AYUDA DE LA IA 	https://developer.mozilla.org/es/plus/ai-help (Es preferible directamente usar openAI de ChatGPT o Copilot de Microsoft)
+		https://chatgpt.com/ (LA QUE INICIO LA CARRERA DE LA IA - OpenAI la compra APPLE)
+		https://copilot.microsoft.com/ (INTERESANTE)
+		https://gemini.google.com/app?hl=es-ES (De Google la última - tiene que mejorar mucho)
+
+CURSOS DE UDEMY
+https://www.udemy.com/es/courses/development/
+
+Destacados: 
+https://www.udemy.com/course/introduccion-html-y-css (ES MUY MUY BASICO)
+https://www.udemy.com/course/fundamentos-de-programacion-con-javascript (RECOMENDADO)
+https://www.udemy.com/course/introduccion-a-javascript-x
+https://www.udemy.com/course/fundamentos-de-programacion-con-php
+https://www.udemy.com/course/php-y-mysql-convierte-cualquier-template-html-en-una-webapp
+https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql (RECOMENDADO)
+https://www.udemy.com/course/master-completo-java-de-cero-a-experto (COMPLEJO)
+
+
+WEBs INTERESANTES
+https://lenguajecss.com/
+https://manz.dev/
+https://manz.dev/cheatsheets/ (OJO intenta ganar dinero con donaciones pero se puede descargar gratis - Donando 0€)
+
+PERFIL PROFESIONAL WEBDEV A SEGUIR:
+https://www.linkedin.com/in/midudev/
+https://www.linkedin.com/in/danielprimo/
+
+EMPRESAS EN CANTABRIA - TIC a SEGUIR/INVESTIGAR (Presentar CV)
+Las del PCTCAN - Parque Cientifico Tecnologico de Cantabria -> 	https://www.pctcan.es/ ver las EMPRESAS
+								https://www.pctcan.es/bolsa-de-empleo-2/ (OJO aqui oportunidades)
+CIC
+QUITER
+VIAVOX
+SEMICROL
+Otras del CLUSTER TERA -> https://clustertera.es/
+Axpe
+
