@@ -1,3 +1,11 @@
+* {
+    /*
+    margin: 0;
+    padding: 0;
+    */
+    text-align: center;
+}
+
 .titulo {
     text-align: center;
     color: black;

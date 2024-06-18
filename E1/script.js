@@ -17,7 +17,7 @@ function boton2Pulsado() {
 }
 
 function resetear() {
-    document.getElementById('nombre').value = 'DAVID';
+    document.getElementById('nombre').value = 'LUISMI';
     document.getElementById('saludoPersonal').innerHTML = '';
     let numPulsaciones = 0;
     document.getElementById("resultado").textContent =
