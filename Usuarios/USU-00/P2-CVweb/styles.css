@@ -1,0 +1,155 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1920px;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+main {
+    width: 100%;
+    padding: 1rem;
+}
+
+.top-row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.photo-frame {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px solid #333;
+}
+
+.photo-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.photo-frame img.hidden {
+    opacity: 0;
+}
+
+.contact-info div, .contact-info a {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.contact-detail {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 1.5rem;
+    transition: transform 0.3s, font-size 0.3s;
+    transform-origin: center;
+    text-align: center;
+}
+
+h1:hover {
+    transform: scale(1.1);
+    font-size: 1.7rem;
+}
+
+.vehicle {
+    text-align: center;
+}
+
+.profile-description {
+    margin: 20px;
+}
+
+#links {
+    display: flex;
+    direction: rtl;
+}
+
+.icon-phone::before, .icon-whatsapp::before, .icon-email::before, .icon-linkedin::before, .icon-github::before, .icon-website::before, .icon-vehicle::before {
+    content: '';
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-size: contain;
+    margin-right: 0.5rem;
+}
+
+.icon-phone::before {
+    background-image: url('phone-icon.png');
+}
+
+.icon-whatsapp::before {
+    background-image: url('whatsapp-icon.png');
+}
+
+.icon-email::before {
+    background-image: url('email-icon.png');
+}
+
+.icon-linkedin::before {
+    background-image: url('linkedin-icon.png');
+}
+
+.icon-github::before {
+    background-image: url('github-icon.png');
+}
+
+.icon-website::before {
+    background-image: url('website-icon.png');
+}
+
+.icon-vehicle::before {
+    background-image: url('images/vehicle-icon.png');
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    margin-top: 1rem;
+}
+
+.grid section {
+    padding: 1rem;
+    background-color: white;
+}
+
+footer p {
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .top-row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+    }
+}
