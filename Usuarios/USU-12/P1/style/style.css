@@ -1,0 +1,47 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+html {
+  background-color: #34afd4;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #0cc8e9;
+  padding: 0 20px 20px 20px;
+  border: 2px solid rgb(14, 168, 196);
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.flex-container{
+  border: 2px solid rgb(9, 163, 190) ;
+  text-align: center;
+}
+
