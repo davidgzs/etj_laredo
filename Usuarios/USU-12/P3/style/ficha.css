@@ -1,0 +1,12 @@
+body{
+    font-size: 20px;
+}
+
+.flex-container{
+    text-align: center;
+    border: 4px solid rgb(212, 193, 193);
+    background-color: rgb(233, 217, 217);
+}
+span{
+    font-weight: bold;
+}
