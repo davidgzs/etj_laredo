@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    background: #fff;
+    width: 80%;
+    max-width: 1000px;
+    margin: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+.sidebar {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    width: 300px;
+    flex-shrink: 0;
+    text-align: center;
+}
+.sidebar img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+.sidebar h1 {
+    font-size: 24px;
+    margin: 0;
+}
+.sidebar p {
+    margin: 10px 0;
+}
+.sidebar .contact-info, .sidebar .personal-info {
+    margin-top: 20px;
+}
+.sidebar .contact-info p, .sidebar .personal-info p {
+    margin: 5px 0;
+}
+.main-content {
+    padding: 20px;
+    flex-grow: 1;
+}
+.main-content section {
+    margin-bottom: 20px;
+}
+.main-content h2 {
+    margin: 0 0 10px 0;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+.main-content p {
+    margin: 5px 0;
+}
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.skills .skill {
+    flex: 1 1 30%;
+    background: #e4e4e4;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.img1{
+    background: url(images/perfil.png);
+}
+.img1:hover{
+    background: url(images/icono.jpg);
+
+}
