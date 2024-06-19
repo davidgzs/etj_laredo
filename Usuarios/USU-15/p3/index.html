@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Web</title>
+    <link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Diego Cuesta Santamaría</h1>
+        <img src="usuarios.png" alt="Imagen" style="width: 500px;">
+        <form>
+            <select name="sexo" required>
+                <option value="">Selecciona tu sexo</option>
+                <option value="masculino">Masculino</option>
+                <option value="femenino">Femenino</option>
+                <option value="otro">Otro</option>
+                <option value="prefiero no decirlo">Prefiero no decirlo</option>
+            </select>
+            <input type="text" name="nombre" placeholder="Nombre" required>
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="number" name="edad" placeholder="Edad" required>
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+    <script src="script/java.js"></script>
+</body>
+</html>
