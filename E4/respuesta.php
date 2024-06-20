@@ -7,6 +7,15 @@ $series_favoritas = [
     1 => "Juego de Tronos",
     2 => "Peaky Blinders",
     8 => "Las bolas del dragon",
+
+
+
+
+
+
+
+
+    12=> "Bridgerton"
 ];
 
 // Determina la serie favorita del usuario
