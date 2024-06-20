@@ -5,7 +5,8 @@ $usuario = isset($_GET['usuario']) ? intval($_GET['usuario']) : 0;
 // Array de series favoritas por usuario
 $series_favoritas = [
     1 => "Juego de Tronos",
-    2 => "Peaky Blinders"
+    2 => "Peaky Blinders",
+    8 => "Las bolas del dragon",
 ];
 
 // Determina la serie favorita del usuario
