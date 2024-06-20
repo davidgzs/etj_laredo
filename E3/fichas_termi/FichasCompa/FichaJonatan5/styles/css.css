@@ -1,0 +1,86 @@
+.container{
+	display: flex;
+	margin: 4em auto;
+	width: 40%;
+	box-shadow: 0px 0px 23px -6px rgba(0,0,0,0.75);
+}
+.formulario{
+	width: 100%;
+	padding: 2rem;
+	background-color: white;
+}
+input, select, textarea{
+	width: 100%;
+}
+.submit{
+width: 30%;
+}
+
+.titulo h1{
+	font-size:  25px;
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 400;
+}
+.titulo h4{
+	font-size: 17px;
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 500;
+}
+.bebas-neue-regular {
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+h3 {
+	font-size: 22px;
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 500;
+}
+.body {
+	width: 90%;
+}
+.hola h3{
+	font-size: 22px;
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 500;
+}
+.hola2 p{
+	font-size: 15px;
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 500;
+	line-height: normal;
+}
+.hola {
+	display: flex;
+	justify-content: left;
+	flex-wrap: wrap;
+}
+.si {
+	line-height: 0px;
+}
+.hola3 p{
+	font-size: 12px;
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 500;
+	line-height: normal;
+}
+.hola3 h3{
+	font-size: 10px;
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 400;
+	line-height: normal;
+	color: gray;
+}
+.hola3{
+	display: flex;
+	align-items: center;
+}
+.hola3 h2{
+	font-size: 18px;
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 550;
+	line-height: normal;
+}
+.line{
+	line-height: 0%;
+}
