@@ -1,0 +1,29 @@
+    /* Estilos para el enlace */
+    .enlace-imagen {
+        display: inline-block;
+        position: relative;
+    }
+
+    /* Estilos para la imagen dentro del enlace */
+    .enlace-imagen img {
+        display: block;
+    }
+
+    /* Estilos para el pseudo-elemento :before para el borde difuminado */
+    .enlace-imagen:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(255, 255, 255, 0);
+        transition: border 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    /* Efecto hover para el borde difuminado */
+    .enlace-imagen:hover:before {
+        
+        box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+    }
