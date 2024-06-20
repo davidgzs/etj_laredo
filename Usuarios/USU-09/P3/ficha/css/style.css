@@ -1,0 +1,19 @@
+#contenedor{
+    margin: auto;
+    width: 30%;
+    background-color: rgb(197, 89, 156);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+.img{
+    margin: 15px;
+}
+.img2{
+    margin-left: 10px;
+}
