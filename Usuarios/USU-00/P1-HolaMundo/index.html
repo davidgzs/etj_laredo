@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <title>E1 - Primer Ejemplo - Primera Web</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <h1 class="titulo">Primer ejemplo - Primera página WEB</h1>
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
+        <p>Vamos primero con un Saludo mundial para toda la gente que este viendo esta WEB</p>
+        <div class="saludo1" id="Saludo1">
+            <h1>¡¡HOLA MUNDO!!</h1>
+        </div>
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
+        <p>Y ahora un Saludo individual: escribe un nombre y pulsa sobre el <strong>Botón1</strong> para saludar</p>
+        <div class="saludo2" id="saludo2"> 
+            <strong>
+            <label for="nombre">NOMBRE: <input type="text" id="nombre" name="nombre" value="Román" required></label>
+            <!-- Sección para mostrar el saludo -->
+            <p id="saludoPersonal"></p>
+            </strong>
+        </div>
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
+        <p>Con <strong>Botón2</strong> haremos pruebas en javascript para contar pulsaciones. ¡¡Haz la prueba!!</p>
+        <div class="resultado" id="resultado">
+            <span class="bold">
+            RESULTADO: 0
+            
+            </span>
+        </div>
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
+        <br />
+        <div class="botonera" id="botonera">
+            <button onclick="boton1Pulsado()">Botón1</button>
+            <button onclick="boton2Pulsado()">Botón2</button>
+            <button onclick="resetear()">Resetear</button>
+        </div>
+        <br />
+        <!-- Línea horizontal para separar secciones -->
+        <hr />
+        <div class="ayuda" id="ayuda">
+            <p><strong>Botón1:</strong> Es para mandar un Saludo Individual al Nombre indicado</p>
+            <p><strong>Botón2:</strong> Es para probar función JavaScript que cuenta pulsaciones</p>
+            <p><strong>Resetear:</strong> Es para reiniciar todo. El contador a 0 y nombre a Luismi</p>
+        </div>        
+    </body>
+</html>
