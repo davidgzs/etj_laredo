@@ -1,82 +1,6 @@
-/* body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-}
 
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-}
-
-header {
-    background: #7c5c83;
-    color: #ffffff;
-    padding-top: 30px;
-    min-height: 70px;
-    border-bottom: #9d6ba3 3px solid;
-}
-
-header h1 {
-    text-align: center;
-    text-transform: uppercase;
-    margin: 0;
-}
-
-header p {
-    text-align: center;
-    font-style: italic;
-}
-
-section {
-    padding: 20px 0;
-}
-section h2 {
-    text-align: center;
-    color: #826285;
-}
-
-.job, .school {
-    background: #ffffff;
-    padding: 10px;
-    margin-bottom: 10px;
-    border-left: #846691 3px solid;
-}
-
-.job h3, .school h3 {
-    margin-top: 0;
-    color: #60426e;
-}
-
-.skills ul {
-    list-style: none;
-    padding: 0;
-}
-
-.skills ul li {
-    background: #715a7c;
-    color: #ffffff;
-    padding: 10px;
-    margin-bottom: 5px;
-    text-align: center;
-}
-
-footer {
-    background: #35424a;
-    color: #ffffff;
-    text-align: center;
-    padding: 10px 0;
-    margin-top: 20px;
-}
-
-footer p {
-    margin: 0;
-} */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
     padding: 0;
     display: flex;
@@ -147,4 +71,8 @@ ul {
 }.titulo-hover:hover {
     font-size: 2em; /* Aumenta el tamaño de la fuente cuando se pasa el cursor por encima */
     color: #51a395;
+}
+.titulo-hover2:hover {
+    font-size: 2em; /* Aumenta el tamaño de la fuente cuando se pasa el cursor por encima */
+    color: #fafafa;
 }
