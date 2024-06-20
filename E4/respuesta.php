@@ -6,7 +6,7 @@ $usuario = isset($_GET['usuario']) ? intval($_GET['usuario']) : 0;
 $series_favoritas = [
     1 => "Juego de Tronos",
     2 => "Peaky Blinders",
-    7 => "Breaking Bad"
+    7 => "Breaking Bad",
     8 => "Las bolas del dragon",
 
 
